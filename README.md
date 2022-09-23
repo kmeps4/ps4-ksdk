@@ -1,4 +1,4 @@
-This is an SDK for PlayStation 4 kernels! Support for 5.05 only right now!  
+This is an SDK for PlayStation 4 kernels! Support for PS4 6.72 Firmware, Offsets By Giant-Pluto!  
 Created by **Alexandro Sanchez Bach** and maintained by golden  
 Check out Alex's project [Oribital](https://github.com/AlexAltea/orbital)
 
